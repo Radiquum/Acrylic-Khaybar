@@ -11,6 +11,5 @@ Unfortunately, you really do need the latest version of Rainmeter for this skin.
 ## Credits
 * [thjrulz](https://github.com/tjhrulz/WebNowPlaying) for the WebNowPlaying plugin and [khanhas](https://github.com/khanhas/spicetify-cli) for his amazing work with spicetify-cli.
 * [jsmorley](https://forum.rainmeter.net/viewtopic.php?t=28720) for the ConfigActive plugin.
-* [Spencer Watson](https://unsplash.com/photos/Bzz0LVbyO8I) for the preview background.
 * [Jelle-Dekkers](https://github.com/Jelle-Dekkers/Khaybar) for the Khaybar skin.
 * [TheAzack9](https://github.com/TheAzack9/FrostedGlass) for the FrostedGlass plugin.
